@@ -16,8 +16,7 @@ namespace ExtractEmails
             foreach (Match match in matches)
             {
                 Console.WriteLine(match.Value);
-            }
-            
+            }            
         }
     }
 }
